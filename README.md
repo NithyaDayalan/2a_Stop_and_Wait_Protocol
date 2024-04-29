@@ -1,4 +1,7 @@
 # 2a STOP AND WAIT PROTOCOL
+## DEVELOPED BY : NITHYA D
+## REG NO : 212223240110
+
 ## AIM :
 To write a python program to perform stop and wait protocol
 ## ALGORITHM :
@@ -11,6 +14,9 @@ To write a python program to perform stop and wait protocol
 ## PROGRAM :
 ### CLIENT :
 ```
+Developed by : NITHYA D
+Reg.no : 212223240110
+
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
@@ -29,6 +35,9 @@ while True:
 ```
 ### SERVER :
 ```
+Developed by : NITHYA D
+Reg.no : 212223240110
+
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
